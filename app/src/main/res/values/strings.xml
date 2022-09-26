@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FreeProject</string>
+    <string name="affirmation1">Class 1 Homework</string>
+    <string name="affirmation2">Class 2 Homework</string>
+    <string name="affirmation3">Take dog out</string>
+    <string name="affirmation4">Go to grocery store</string>
+    <string name="affirmation5">Clean bathroom</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">New opportunities await me at every turn.</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+</resources>
